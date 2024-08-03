@@ -20,8 +20,8 @@ const Header = () => {
                 >
                     <div className="d-flex justify-content-center align-items-center h-100">
                         <div className="text-white">
-                            <h1 className="mb-3">Pizzería Mamma Mía</h1>
-                            <h4 className="mb-3">¡Tenemos las mejores pizzas de la ciudad!</h4>
+                            <h1 className="mb-3">Pizzería DC</h1>
+                            <h4 className="mb-3">The best of the best - The king of Pizzas</h4>
                             
                         </div>
                     </div>

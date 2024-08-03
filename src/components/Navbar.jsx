@@ -21,7 +21,7 @@ const Navbar = () => {
                                 <a className="nav-link" href="#">🔓 Profile</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">🔒 Logout</a>
+                                <a className="nav-link" href="#">🔒 Log/Out</a>
                             </li>
                         </>
                     ) : (
