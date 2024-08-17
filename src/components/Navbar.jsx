@@ -1,7 +1,6 @@
 import React from "react";
 
 const Navbar = ({totalQuantity, totalPrice}) => {
-    // const total = 25000
     const token = false
 
     return (
